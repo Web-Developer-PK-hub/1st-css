@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(img/WhatsApp\ Image\ 2024-07-20\ at\ 1.37.07\ PM.jpeg);
+    background-repeat: no-repeat;
+    /* height: 10vh; */
+}
+p{
+    display: inline-block;
+    margin: 5px;
+}
+#psk{
+    margin-left: 50%;
+    font-family: sans-serif;
+    color: #fff;
+}
+#gsk{
+    margin: 10px;
+    margin-top: 60px;
+    font-family: sans-serif;
+    color: #fff;
+}
+#rentored{
+    margin-left: 35px;
+    color: #fff;
+}
+h1{
+    color: #fff;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-size: 4em;
+}
+#just{
+    color: #fff;
+    font-family: sans-serif;
+}
+button{
+    width: 15%;
+    height: 50px;
+    border: 1px solid green;
+    background: transparent;
+    border-radius: 30px;
+}
